@@ -1,0 +1,8 @@
+*.pyc
+*.so
+*.zip
+/build
+/r2r_src/.idea
+/img_features
+/snap
+/data
