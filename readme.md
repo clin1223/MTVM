@@ -24,7 +24,7 @@ the navigation trajectory.
 - PyTorch ≥ 1.6.
 ```
 pip install -r requirements.txt
-apt-get install libjsoncpp-dev libepoxy-dev libglm-dev libosmesa6 libosmesa6-dev libglew-dev
+sudo apt-get install libjsoncpp-dev libepoxy-dev libglm-dev libosmesa6 libosmesa6-dev libglew-dev
 ```
 
 ## Installation
