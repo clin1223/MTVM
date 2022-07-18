@@ -1,4 +1,4 @@
-name=lang_att_drop8_weight4_p3_5e-6_BS8
+name=test
 
 flag="--vlnbert prevalent
 
@@ -6,7 +6,7 @@ flag="--vlnbert prevalent
       --test_only 0
 
       --train validlistener
-      --load snap/lang_att_drop8_weight4_p3_5e-6_BS8/state_dict/best_val_unseen
+      --load snap/model_name/state_dict/best_val_unseen
 
       --features places365
       --maxAction 15
